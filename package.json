@@ -2,7 +2,7 @@
   "name": "my-portfolio",
   "private": true,
   "version": "0.0.0",
-  "type": "module",  
+  "type": "module",
   "homepage": "https://junaid-sultan101.github.io/Portfolio",
   "scripts": {
     "dev": "vite",
