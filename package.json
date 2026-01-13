@@ -1,9 +1,9 @@
 {
   "name": "my-portfolio",
+  "homepage": "https://junaid-sultan101.github.io/Portfolio",
   "private": true,
   "version": "0.0.0",
   "type": "module",
-  "homepage": "https://junaid-sultan101.github.io/Portfolio",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
