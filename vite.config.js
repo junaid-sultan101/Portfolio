@@ -4,8 +4,6 @@ import react from '@vitejs/plugin-react'
 // https://vite.dev/config/
 export default defineConfig({
   plugins: [react()],
-  base: '/Portfolio/',
-   build: {
-    outDir: 'docs',          // <- this makes Vite output to dost instead of dist
-  },
+  base: '/portfolio/',
+build: { outDir: 'docs' }
 })
