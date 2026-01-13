@@ -6,6 +6,6 @@ export default defineConfig({
   plugins: [react()],
   base: '/Portfolio/',
    build: {
-    outDir: 'dost',          // <- this makes Vite output to dost instead of dist
+    outDir: 'docs',          // <- this makes Vite output to dost instead of dist
   },
 })
